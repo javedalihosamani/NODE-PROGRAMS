@@ -1,0 +1,4 @@
+Welcome to Node JS
+We are executing program of readLine
+It reads the data line by line
+It is built in module of nodeJS
